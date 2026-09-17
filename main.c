@@ -9,6 +9,7 @@ int main(int argc, char** argv)
   askname(first, last);
 
   printf("Hello, %s %s!\n", first, last);
+  printf("Add fork to main");
   return 0;
 }
 

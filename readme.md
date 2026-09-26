@@ -1,1 +1,2 @@
-"rid me nepravilniy text\t" 
+"Let's assume this is readme text"
+
